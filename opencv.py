@@ -6,7 +6,7 @@ import numpy as np
 from win32 import win32api
 import win32con
 
-import lib.viz as viz
+import .viz as viz
 
 if __debug__:
     cv2.namedWindow('res', cv2.WINDOW_NORMAL)
