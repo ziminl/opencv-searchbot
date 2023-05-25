@@ -1,1 +1,1 @@
-python opencv.py
+python -o opencv.py
