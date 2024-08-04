@@ -6,3 +6,5 @@ pip install -r requirements.txt
 
 
 pip install yolov5
+
+https://pylessons.com/YOLO-tutorials
